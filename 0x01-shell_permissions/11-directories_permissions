@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod find . -type d ugo+x
+find . -type d chmod ugo+x
