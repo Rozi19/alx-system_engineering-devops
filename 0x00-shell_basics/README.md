@@ -15,3 +15,4 @@
 14-copy-html:- copy all html file
 100-lets_move:- move the file began with upper case
 101-clean emacs:- delete ~ file
+102-tree:- creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
