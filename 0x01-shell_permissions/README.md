@@ -13,4 +13,5 @@
 12-directory_permission:- creating a directory called my-dir with permissions 751 in the working directory
 13-change_group:- changeing  the group owner
 100-change_owner_and_group:- change All the owner and group owner 
-101-symbolic_linck_permissions:- changes the owner and the group owner of _hello to vincent and staff respectively 
+101-symbolic_linck_permissions:- changes the owner and the group owner of _hello to vincent and staff respectively
+102-if_only:- changes the owner of the file hello to betty only if it is owned by the user guillaume 
