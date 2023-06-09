@@ -14,3 +14,4 @@
 13-symbolic-link:-Createing a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 14-copy-html:- copy all html file
 100-lets_move:- move the file began with upper case
+101-clean emacs:- delete ~ file
