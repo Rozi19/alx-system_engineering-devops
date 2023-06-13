@@ -22,3 +22,4 @@ Sorted from the newest to the oldest
 18 ietter only:- Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-az:-Replace all characters A and c from input to Z and e respectively
 20:-remove all letter
+21:-Write a script that reverse its input
