@@ -15,3 +15,4 @@ Requirements:
 One file per line
 Sorted from the newest to the oldest
 13-uniq:- takes a list of words as input and prints only words that appear exactly once
+14-find that word:- Display lines containing the pattern “root” from the file /etc/passwd
